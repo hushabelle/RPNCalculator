@@ -1,5 +1,6 @@
-# CS2800
+# Reverse Polish Notation Calculator
 
-This repository has been created to store your CS2800 work.
+-- Program provides a GUI view for users to input a mathematical expression and it outputs the evaluated calculation
+-- Test driven development
 
-You may edit it as you like, but please do not remove the default topics or the project members list. These need to stay as currently defined in order for your lecturer to be able to find and mark your work.
+Technologies used: Java, Git, JUnit, SceneBuilder 
